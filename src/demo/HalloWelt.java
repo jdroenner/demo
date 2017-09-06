@@ -2,6 +2,6 @@ package demo;
 
 public class HalloWelt {
 	public static void main(final String[] args) {
-		System.out.println("Hallo Welt!");
+		System.out.println("Hallo! Welt!");
 	}
 }
